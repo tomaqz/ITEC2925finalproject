@@ -1,0 +1,60 @@
+header, footer
+{
+    background-color: #663300;
+    color: #ffffe6;
+    text-align: center;
+}
+header, h1
+{
+    display: center;
+    color: #ffffe6;
+    font-size: 26pt;
+    text-align: center;
+    font-family: Impact, sans-serif;
+    vertical-align: top;
+}
+
+nav
+{
+    background-color:#663300;
+    text-align: center;
+}
+
+.menu
+{
+    display: inline;
+    /*color: #ffffe6;*/
+    font-size: 12pt;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, sans-serif;
+    font-weight: bold;
+    vertical-align: top;
+    padding: 5px;
+    /* width: 150px; */
+}
+
+.menutext
+{
+    /* color: #331a00; */
+    color: #ffffe6;
+    font-size: 16pt;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+section h2
+{
+    color: #663300;
+    font-size: 16pt;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+section p
+{
+    color: #000000;
+    font-size: 14pt;
+    text-align: center;
+    font-family: Arial, 'Arial Narrow', sans-serif;
+    /*width: 500px;
+    float: none;*/
+}
